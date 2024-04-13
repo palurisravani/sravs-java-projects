@@ -1,0 +1,3 @@
+Must do...
+practise
+1)Develop a jdbc application for insert,update,select.delete?

@@ -1,0 +1,4 @@
+self learning2
+1)Learn what is singleTon Design pattern?and create a java program to implement singleton design pattern?
+2)Learn What is factory design pattern? and create a java program to implement factory design pattern?
+3)What is inversion of control(IOC)?How it is used in a framework? 

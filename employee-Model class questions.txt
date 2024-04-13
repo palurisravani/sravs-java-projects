@@ -1,0 +1,8 @@
+employee->Model class
+EmpId,EmpName,Empsal->fields->column names
+Skills->create a seperate class
+{
+String skill1=java;
+String skill2 = python;.....5
+}
+inject skills ref in your employee class

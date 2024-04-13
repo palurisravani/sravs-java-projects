@@ -1,0 +1,9 @@
+1)Difference between collection and collections?
+2)Develop a program to perform Serialization and deserialisation?
+3)why we need to default and abstract methods?
+4)Write a program to append String data into a file?
+5)Write a program to clone an object using clonable interface?
+6)if equals()method is not there in stringbuffer than can i check the contents of string?
+practise programs:
+1)even or odd,prime numbers,armstrong numbers,parlindrome number,perfect number,fibonocci series
+practice oops programs
